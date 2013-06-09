@@ -1,0 +1,20 @@
+{
+    "name": "brackets-quoteconverter",
+    "title": "Quote Converter",
+    "version": "0.0.1",
+    "description": "Convert single to double quote or double to single quote",
+    "homepage": "https://github.com/drewhjava/brackets-quoteconverter",
+    "author": "Drew Hamlett i@drewh.me (https://github.com/drewhjava/)",
+    "license": "MIT",
+    "categories": "converting",
+    "keywords": [
+        "quote conversion",
+        "single quote"
+    ],
+    "files": [
+        "main.js",
+    ],
+    "engines": {
+        "brackets": ">=0.22.0"
+    }
+}
